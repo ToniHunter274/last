@@ -1,0 +1,236 @@
+body{
+
+	background-color: hsl(239, 57%, 85%);
+	padding-top: 50px;
+}
+
+p{
+	font-family: 'rubik'; 
+	font-size: 13px;
+}
+
+button{
+	border: none;
+	color: blue;
+	background-color: white; 
+}
+
+.con1{
+	width: 900px;
+	border: none;
+	border-radius: 5px;
+	display: flex;
+	padding-top:20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	background-color: white;
+	margin: 0 auto;
+
+}
+
+.container{
+	display: flex;
+	width: 900px;
+	margin:0 auto;
+	margin-bottom: 15px;
+	border-radius: 5px;
+	border:none;
+	background-color: white;
+}
+
+.container-re{
+	display: flex;
+	width: 700px;
+	margin: 0 auto;
+	margin-bottom: 15px;
+	border-radius: 5px;
+	border:none;
+	background-color: white; 
+}
+.left{
+	margin-left: 20px;
+	border:none;
+	height: 80px;
+	width: 35px;
+	margin-top: 20px;
+	background-color: hsl(239, 57%, 85%);
+	border-radius: 5px;
+	text-align: center;
+	padding-top: 10px;
+}
+.right{
+	display:flex;
+}
+.txt{
+	padding-top: 5px;
+	height: 50px;
+	padding-left: 50px;
+	margin-top: -65px;
+	margin-left: -20px;
+}
+#likes{
+	background-color: white;
+	width: 900px;
+	margin: 0 auto;
+	border:none;
+	border-radius: 5px;
+}
+
+.pap{
+	padding-left: 45px;
+	
+}
+
+.pip{
+	padding-left: 20px
+}
+
+.points{
+	width: 100px;
+}
+
+.likes{
+	color: blue;
+	font-weight: 700;
+	font-family: 'rubik';
+}
+
+.reply{
+	height: 15px;
+}
+
+.repli{
+	display: none;
+	width: 750px;
+	margin:0 auto;
+	margin-bottom: 15px;
+	border-radius: 5px;
+	border:none;
+	background-color: white;
+
+}
+
+#update{
+	display: none;
+	margin-left: 400px;
+	margin-bottom: 20px;
+	border-radius: 10px;
+	color: white;
+	background-color: #5463AE;	
+}
+
+.tag{
+	font-weight: 500;
+	color: blue;
+}
+
+.reply1{
+	height: 15px;
+	margin-left: 200px;
+	cursor: pointer;
+}
+
+.reply:hover{
+	color: grey;
+}
+.delete{
+	height: 15px;
+	margin-left: -70px;
+
+}
+
+.del{
+	color: red;
+	font-family: 'rubik';
+	font-weight: 500;
+	cursor: pointer;
+}
+
+.del:hover{
+	color: grey;
+}
+
+.repa{
+	font-family: 'rubik';
+	font-weight: 500;
+	cursor: pointer;
+}
+
+.repa:hover{
+	color: grey;
+
+}
+
+.edi{
+	font-family: 'rubik';
+	font-weight: 500;
+	cursor: pointer;
+}
+
+.edi:hover{
+	color: grey;
+}
+
+.replies{
+	width: 1px;
+	border-left: 1px solid grey;
+	padding-left: 40px;
+	margin-left: 500px;
+}
+
+img{
+	height: 35px;
+	padding-top: 15px; 
+}
+
+h4{
+	padding-left: 20px;
+    height: 25px;
+    font-family: 'rubik';
+}
+textarea{
+	margin-left: 20px;
+	margin-top: 10px;
+	border:1px solid grey;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+#send{
+	margin-left: 20px;
+	margin-top: 20px;
+	width: 75px;
+	height: 30px;
+	border-radius: 10px;
+	border:none;
+	color: white;
+	background-color: #5463AE;
+	cursor: pointer;
+
+
+}
+
+.poin{
+	border:none;
+	background-color: rgb(193, 207, 223);
+	color: grey;
+	font-size: 600;
+	cursor: pointer; 
+}
+
+.dates{
+	padding-left: 10px;
+	color: grey;
+	font-weight: 300;  
+}
+
+#you{
+	width: 50px;
+	border:none;
+	background-color:blue;
+	color: white;
+}
+
+
+
+
